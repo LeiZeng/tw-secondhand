@@ -1,0 +1,19 @@
+.User {
+  height: 30px;
+  display: flex;
+}
+
+.User img {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.User span{
+  text-align: left;
+  color: darkgray;
+  line-height: 30px;
+  flex: 3;
+  padding-left: 10px;
+  font-size: 13px;
+}
