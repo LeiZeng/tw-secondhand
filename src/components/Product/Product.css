@@ -1,0 +1,27 @@
+.product {
+  padding-left: 40px;
+  margin-bottom: 20px;
+  display: flex;
+	align-items: center;
+}
+
+.grey {
+  background: lightgray;
+  opacity: 0.5;
+}
+
+.product .image {
+  width: 30%;
+  display: inline-block;
+}
+
+.product .info {
+  flex: 2;
+  font-size: 12px;
+  display: inline-block;
+  margin-left: 15%;
+}
+
+.message {
+  text-align: left;
+}
